@@ -131,6 +131,7 @@ README.md
 - Do not commit your API key
 - Keep `.env` file private
 - Use environment variables for security
+  **Hope for the freedom of Iran and the Iranian people**
 
 ---
 
