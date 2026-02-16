@@ -1,0 +1,8 @@
+node_modules/
+venv/
+output/
+.env
+places_links.json
+places_data.json
+.DS_Store
+
